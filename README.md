@@ -1,43 +1,54 @@
-# My Great Learning - Video Skipper - Hack
+MyGreatLearning Video Skipper
+=============================
 
-This Project will help you to skip the videos without watching it.
+This PHP script allows you to skip videos automatically on MyGreatLearning, enabling you to obtain the certificate more quickly without watching the videos. Please note that using this script may violate the terms of service of MyGreatLearning, and it is your responsibility to use it ethically and in compliance with applicable laws and regulations.
 
-## Prerequired
+Prerequisites
+-------------
 
- - [XAMPP](https://www.apachefriends.org/download.html)
- - [mygreatlearning.com Account](http://mygreatlearning.com/)
+Before using this script, make sure you have the following:
 
-## Authors
+*   XAMPP installed on your machine
+*   A MyGreatLearning.com account
 
-- [Venkatesh S](https://www.linkedin.com/in/venkatesh-s-5667251bb/)
+Authors
+-------
 
-## How To Use
+*   Venkatesh S ([GitHub](https://github.com/Venkatesh-KCET))
 
-![App Screenshot](https://raw.githubusercontent.com/Venkatesh-KCET/MyGreatLearning-Video-Skipper/main/steps.png)
+How to Use
+----------
 
-### Copy Content
+1.  Take a screenshot of the application to refer to during the process.
+    
+2.  Follow the steps below to obtain the necessary information for the script:
+    
+    *   Open Google Chrome.
+    *   Log in to your account on [MyGreatLearning.com](https://www.mygreatlearning.com/).
+    *   Enroll in some free courses.
+    *   Open DevTools by pressing Control+Shift+J. The Console panel will open.
+    *   Click the Network tab. The Network panel will open.
+    *   Refresh the page.
+    *   Click the Fetch/XHR tab.
+    *   Click on `modules?include[]=items`.
+    *   Click on the Response tab.
+    *   Copy the text content displayed.
+    *   Copy the User ID (integer number after `user_id=`).
+3.  Install the Chrome Extension to ignore X-Frame headers. This extension helps overcome security restrictions when embedding external content in webpages.
+    
+4.  Follow the steps below to use the script:
+    
+    *   Paste the copied content in the `module.json` file in this project.
+    *   Open the `index.php` file using localhost (e.g., `http://localhost/mygreatlearning/index.php`).
+    *   Enter your User ID (obtained earlier).
+    *   Click the Submit button.
+    *   The script will automatically simulate video playback, advancing through the content.
 
-- Open Chrome
-- Login in to https://www.mygreatlearning.com/
-- Enroll in some free courses
-- Open DevTools by pressing Control+Shift+J. The Console panel opens.
-- Click the Network tab. The Network panel opens. [1]
-- Refresh The Page
-- Click the Fetch/XHR tab. [2]
-- Click on `modules?include[]=items` [3]
-- Click on Response tab 
-- Copy the text below [4]
+Disclaimer
+----------
 
-### Copy User id 
-- Note the integer number after `user_id=`
+Please use this script responsibly and in accordance with the terms of service of MyGreatLearning. Be aware that using this script to bypass video content may violate the terms of service or policies of MyGreatLearning, and it could have legal consequences. The author and OpenAI do not endorse or promote any illegal or unethical use of this script.
 
-### Install Chrome Externsion 
-- [Ignore X-Frame headers](https://chrome.google.com/webstore/detail/ignore-x-frame-headers/gleekbfjekiniecknbkamfmkohkpodhe)
+By using this script, you assume all responsibility and liability for any consequences that may arise from its usage.
 
-### How To Use????
-- Paste the content in `module.json` file
-- Open the `index.php` file using localhost
-- Enter Your `user_id`
-- Click Submit
-
-Your Video will be automatically seen by this code.
+**Note:** This script was created for educational and experimental purposes only. Use it at your own risk.
