@@ -63,3 +63,8 @@ for obj in objJson:
                 else:
                     print("POST request failed!")
 
+
+# var a = document.querySelectorAll('[title="Enrol Now"]')
+# for(i = 0; i < a.length; i++) {
+#     a[i].click();
+# }
