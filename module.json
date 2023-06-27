@@ -1,1 +1,949 @@
-
+[
+    {
+        "id": 87375,
+        "name": "Learning Videos",
+        "position": 1,
+        "unlock_at": null,
+        "require_sequential_progress": false,
+        "publish_final_grade": false,
+        "prerequisite_module_ids": [],
+        "state": "unlocked",
+        "completed_at": null,
+        "items_count": 14,
+        "items_url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/modules/87375/items",
+        "items": [
+            {
+                "id": 605125,
+                "title": "Database system",
+                "position": 1,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605125",
+                "page_url": "database-system",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/database-system",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605125,
+                    "content_id": 358593,
+                    "type": "video",
+                    "video_length": 445,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "3fc13677-1b3b-422b-864c-e89dc5fc717b",
+                        "duration": 445,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605126,
+                "title": "What is Blockchain",
+                "position": 2,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605126",
+                "page_url": "what-is-blockchain",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/what-is-blockchain",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605126,
+                    "content_id": 358592,
+                    "type": "video",
+                    "video_length": 1017,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "0de7efd3-e935-4416-a84b-ffb0b994e4cf",
+                        "duration": 1017,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605127,
+                "title": "Database Vs Blockchain",
+                "position": 3,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605127",
+                "page_url": "database-vs-blockchain",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/database-vs-blockchain",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605127,
+                    "content_id": 358584,
+                    "type": "video",
+                    "video_length": 411,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "adf02ee2-1382-4fd1-a4e2-fce0f364c0df",
+                        "duration": 411,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605128,
+                "title": "Role of Intermediaries",
+                "position": 4,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605128",
+                "page_url": "role-of-intermediaries",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/role-of-intermediaries",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605128,
+                    "content_id": 358587,
+                    "type": "video",
+                    "video_length": 485,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "fe988c16-7635-4b5c-b4ee-ccba0d06d875",
+                        "duration": 485,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605129,
+                "title": "Blockchain Cryptography",
+                "position": 5,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605129",
+                "page_url": "blockchain-cryptography",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/blockchain-cryptography",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605129,
+                    "content_id": 358591,
+                    "type": "video",
+                    "video_length": 610,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "8482f894-5521-4d39-b525-11bf1353f97c",
+                        "duration": 610,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605130,
+                "title": "Blockchain Solution",
+                "position": 6,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605130",
+                "page_url": "blockchain-solution",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/blockchain-solution",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605130,
+                    "content_id": 358588,
+                    "type": "video",
+                    "video_length": 891,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "ce363420-f7b4-47bc-9284-cfb2e63cc4c1",
+                        "duration": 891,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605131,
+                "title": "Accounts, Blocks, Transactions and Merkle Trees",
+                "position": 7,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605131",
+                "page_url": "accounts-blocks-transactions-and-merkle-trees",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/accounts-blocks-transactions-and-merkle-trees",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605131,
+                    "content_id": 358594,
+                    "type": "video",
+                    "video_length": 1026,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "e614b4c3-ea1b-4283-99eb-3e5f0472013b",
+                        "duration": 1026,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605132,
+                "title": "Consensus Mechanism",
+                "position": 8,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605132",
+                "page_url": "consensus-mechanism",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/consensus-mechanism",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605132,
+                    "content_id": 358581,
+                    "type": "video",
+                    "video_length": 843,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "3dcc7c97-c50f-4eca-b89b-c465357c867f",
+                        "duration": 843,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605133,
+                "title": "Proof of Work and Stake",
+                "position": 9,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605133",
+                "page_url": "proof-of-work-and-stake",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/proof-of-work-and-stake",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605133,
+                    "content_id": 358590,
+                    "type": "video",
+                    "video_length": 417,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "04617698-5e43-4b23-b701-f74332996466",
+                        "duration": 417,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605134,
+                "title": "Mechanism of Blockchain Transaction",
+                "position": 10,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605134",
+                "page_url": "mechanism-of-blockchain-transaction",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/mechanism-of-blockchain-transaction",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605134,
+                    "content_id": 358586,
+                    "type": "video",
+                    "video_length": 412,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "604ee18c-6d41-4c87-8fc9-fe90e9a7d93c",
+                        "duration": 412,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605135,
+                "title": "Blockchain Ecosystem",
+                "position": 11,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605135",
+                "page_url": "blockchain-ecosystem",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/blockchain-ecosystem",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605135,
+                    "content_id": 358582,
+                    "type": "video",
+                    "video_length": 554,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "75c659db-132a-4b68-b424-fb2cc4a0ab4d",
+                        "duration": 554,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605136,
+                "title": "Why Industries Need Blockchain?.",
+                "position": 12,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605136",
+                "page_url": "why-industries-need-blockchain",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/why-industries-need-blockchain",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605136,
+                    "content_id": 358589,
+                    "type": "video",
+                    "video_length": 821,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "03c84c75-a640-418d-9a98-349cfde2e5e7",
+                        "duration": 821,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605137,
+                "title": "Industry Challenges For Blockchain Adoption",
+                "position": 13,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605137",
+                "page_url": "industry-challenges-for-blockchain-adoption",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/industry-challenges-for-blockchain-adoption",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605137,
+                    "content_id": 358585,
+                    "type": "video",
+                    "video_length": 538,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "4ea9aaf9-7818-4d95-a38a-6fb66d63f405",
+                        "duration": 538,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            },
+            {
+                "id": 605138,
+                "title": "Blockchain Examples",
+                "position": 14,
+                "indent": 0,
+                "type": "Page",
+                "module_id": 87375,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605138",
+                "page_url": "blockchain-examples",
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/pages/blockchain-examples",
+                "completion_requirement": {
+                    "type": "must_mark_done",
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "locked_for_user": false
+                },
+                "contentMeta": {
+                    "module_item_id": 605138,
+                    "content_id": 358583,
+                    "type": "video",
+                    "video_length": 707,
+                    "video_provider": "GL_HLS",
+                    "total_watched_secs": null,
+                    "content_type": "WikiPage",
+                    "last_position_sec": null,
+                    "percentage_watched": null,
+                    "content_aux_details": {
+                        "olympus_token": "4b4ee8b4-f4c9-4978-b43d-8a2119f8eea3",
+                        "duration": 707,
+                        "assets": []
+                    },
+                    "feedback_rating": null
+                }
+            }
+        ]
+    },
+    {
+        "id": 87376,
+        "name": "Learning Materials",
+        "position": 2,
+        "unlock_at": null,
+        "require_sequential_progress": false,
+        "publish_final_grade": false,
+        "prerequisite_module_ids": [],
+        "state": "completed",
+        "completed_at": "2023-06-27T06:36:35Z",
+        "items_count": 14,
+        "items_url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/modules/87376/items",
+        "items": [
+            {
+                "id": 605139,
+                "title": "Database Systems.pdf",
+                "position": 1,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605139",
+                "content_id": 945409,
+                "content_type": "application/pdf",
+                "size": 1983626,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945409",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "01. Database Systems.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605140,
+                "title": "Blockchain.pdf",
+                "position": 2,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605140",
+                "content_id": 945408,
+                "content_type": "application/pdf",
+                "size": 1774565,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945408",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "02. Blockchain.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605141,
+                "title": "Database vs Blockchain.pdf",
+                "position": 3,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605141",
+                "content_id": 945407,
+                "content_type": "application/pdf",
+                "size": 1668234,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945407",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "03. Database vs Blockchain.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605142,
+                "title": "Role of Intermediaries.pdf",
+                "position": 4,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605142",
+                "content_id": 945406,
+                "content_type": "application/pdf",
+                "size": 1359356,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945406",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "04. Role of Intermediaries.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605143,
+                "title": "Blockchain solution.pdf",
+                "position": 5,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605143",
+                "content_id": 945405,
+                "content_type": "application/pdf",
+                "size": 2166138,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945405",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "05. Blockchain solution.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605144,
+                "title": "Blockchain Cryptography.pdf",
+                "position": 6,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605144",
+                "content_id": 945404,
+                "content_type": "application/pdf",
+                "size": 869052,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945404",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "06. Blockchain Cryptography.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605145,
+                "title": "Accounts, Blocks, Transactions and Merkle Trees.pdf",
+                "position": 7,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605145",
+                "content_id": 945403,
+                "content_type": "application/pdf",
+                "size": 2373754,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945403",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "07. Accounts, Blocks, Transactions and Merkle Trees.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605146,
+                "title": "Consensus Mechanism.pdf",
+                "position": 8,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605146",
+                "content_id": 945402,
+                "content_type": "application/pdf",
+                "size": 2036596,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945402",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "08. Consensus Mechanism.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605147,
+                "title": "Proof of Work and Proof of Stake.pdf",
+                "position": 9,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605147",
+                "content_id": 945401,
+                "content_type": "application/pdf",
+                "size": 2471012,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945401",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "09. Proof of Work and Proof of Stake.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605148,
+                "title": "Mechanism of Blockchain Transaction.pdf",
+                "position": 10,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605148",
+                "content_id": 945400,
+                "content_type": "application/pdf",
+                "size": 1694600,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945400",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "10. Mechanism of Blockchain Transaction.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605149,
+                "title": "Blockchain Ecosystem.pdf",
+                "position": 11,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605149",
+                "content_id": 945399,
+                "content_type": "application/pdf",
+                "size": 1793012,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945399",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "11. Blockchain Ecosystem.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605150,
+                "title": "Why Industries need Blockchain.pdf",
+                "position": 12,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605150",
+                "content_id": 945398,
+                "content_type": "application/pdf",
+                "size": 1515565,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945398",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "12. Why Industries need Blockchain_.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605151,
+                "title": "Industry Challenges for Blockchain Adoption.pdf",
+                "position": 13,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605151",
+                "content_id": 945397,
+                "content_type": "application/pdf",
+                "size": 1547073,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945397",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "13. Industry Challenges for Blockchain Adoption.pdf",
+                    "locked_for_user": false
+                }
+            },
+            {
+                "id": 605152,
+                "title": "Blockchain Examples.pdf",
+                "position": 14,
+                "indent": 0,
+                "type": "File",
+                "module_id": 87376,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/605152",
+                "content_id": 945396,
+                "content_type": "application/pdf",
+                "size": 2088738,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/files/945396",
+                "last_published_at": null,
+                "content_details": {
+                    "display_name": "14. Blockchain Examples.pdf",
+                    "locked_for_user": false
+                }
+            }
+        ]
+    },
+    {
+        "id": 88445,
+        "name": "Quiz",
+        "position": 3,
+        "unlock_at": null,
+        "require_sequential_progress": false,
+        "publish_final_grade": false,
+        "prerequisite_module_ids": [
+            87375
+        ],
+        "state": "locked",
+        "completed_at": null,
+        "items_count": 1,
+        "items_url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/modules/88445/items",
+        "items": [
+            {
+                "id": 613001,
+                "title": "Blockchain quiz",
+                "position": 1,
+                "indent": 0,
+                "type": "Quiz",
+                "module_id": 88445,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/613001",
+                "content_id": 41287,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/quizzes/41287",
+                "completion_requirement": {
+                    "type": "min_score",
+                    "min_score": 6,
+                    "completed": false
+                },
+                "last_published_at": null,
+                "content_details": {
+                    "points_possible": 10,
+                    "locked_for_user": true,
+                    "lock_info": {
+                        "asset_string": "quizzes:quiz_41287",
+                        "context_module": {
+                            "id": 88445,
+                            "context_id": 13502,
+                            "context_type": "Course",
+                            "name": "Quiz",
+                            "position": 3,
+                            "prerequisites": [
+                                {
+                                    "id": 87375,
+                                    "type": "context_module",
+                                    "name": "Learning Videos"
+                                }
+                            ],
+                            "completion_requirements": [
+                                {
+                                    "id": 613001,
+                                    "type": "min_score",
+                                    "min_score": 6
+                                }
+                            ],
+                            "created_at": "2020-06-19T10:25:36Z",
+                            "updated_at": "2020-06-19T13:27:01Z",
+                            "workflow_state": "active",
+                            "deleted_at": null,
+                            "unlock_at": null,
+                            "migration_id": null,
+                            "require_sequential_progress": false,
+                            "cloned_item_id": null,
+                            "completion_events": null,
+                            "requirement_count": null
+                        }
+                    },
+                    "lock_explanation": "This quiz is part of the module <b>Quiz</b> and hasn&#39;t been unlocked yet.<br/><div class='spinner'></div><a style='display: none;' class='module_prerequisites_fallback' href='https://olympus.mygreatlearning.com/courses/13502/modules#module_88445'>Visit the course modules page for information on how to unlock this content.</a><a href='/courses/13502/modules/88445/prerequisites/quizzes:quiz_41287' style='display: none;' id='module_prerequisites_lookup_link'>&nbsp;</a>"
+                },
+                "contentMeta": {
+                    "content_id": 41287,
+                    "muted": false,
+                    "submitted_at": null,
+                    "grade": null,
+                    "submission_state": null,
+                    "content_type": "Quizzes::Quiz",
+                    "feedback_rating": null,
+                    "quiz_type": "assignment"
+                }
+            }
+        ]
+    },
+    {
+        "id": 88513,
+        "name": "Claim your course certificate",
+        "position": 4,
+        "unlock_at": null,
+        "require_sequential_progress": false,
+        "publish_final_grade": false,
+        "prerequisite_module_ids": [
+            88445,
+            87375
+        ],
+        "state": "locked",
+        "completed_at": null,
+        "items_count": 1,
+        "items_url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/modules/88513/items",
+        "items": [
+            {
+                "id": 613309,
+                "title": "Claim your course certificate",
+                "position": 1,
+                "indent": 0,
+                "type": "Quiz",
+                "module_id": 88513,
+                "html_url": "https://olympus.mygreatlearning.com/courses/13502/modules/items/613309",
+                "content_id": 41314,
+                "url": "https://olympus.mygreatlearning.com/api/v1/courses/13502/quizzes/41314",
+                "last_published_at": null,
+                "content_details": {
+                    "points_possible": 1,
+                    "locked_for_user": true,
+                    "lock_info": {
+                        "asset_string": "quizzes:quiz_41314",
+                        "context_module": {
+                            "id": 88513,
+                            "context_id": 13502,
+                            "context_type": "Course",
+                            "name": "Claim your course certificate",
+                            "position": 4,
+                            "prerequisites": [
+                                {
+                                    "id": 88445,
+                                    "type": "context_module",
+                                    "name": "Quiz"
+                                },
+                                {
+                                    "id": 87375,
+                                    "type": "context_module",
+                                    "name": "Learning Videos"
+                                }
+                            ],
+                            "completion_requirements": [],
+                            "created_at": "2020-06-19T13:25:52Z",
+                            "updated_at": "2021-05-24T04:18:36Z",
+                            "workflow_state": "active",
+                            "deleted_at": null,
+                            "unlock_at": null,
+                            "migration_id": null,
+                            "require_sequential_progress": false,
+                            "cloned_item_id": null,
+                            "completion_events": null,
+                            "requirement_count": null
+                        }
+                    },
+                    "lock_explanation": "This quiz is part of the module <b>Claim your course certificate</b> and hasn&#39;t been unlocked yet.<br/><div class='spinner'></div><a style='display: none;' class='module_prerequisites_fallback' href='https://olympus.mygreatlearning.com/courses/13502/modules#module_88513'>Visit the course modules page for information on how to unlock this content.</a><a href='/courses/13502/modules/88513/prerequisites/quizzes:quiz_41314' style='display: none;' id='module_prerequisites_lookup_link'>&nbsp;</a>"
+                },
+                "contentMeta": {
+                    "content_id": 41314,
+                    "muted": null,
+                    "submitted_at": null,
+                    "grade": null,
+                    "submission_state": null,
+                    "content_type": "Quizzes::Quiz",
+                    "feedback_rating": null,
+                    "quiz_type": "survey"
+                }
+            }
+        ]
+    }
+]

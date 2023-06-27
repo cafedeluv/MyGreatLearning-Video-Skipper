@@ -8,7 +8,7 @@ if(isset($_GET['id'])) {
 	$temp2 = explode("/modules", $temp1[1]);
 	$temp2 = $temp2[0];
 
-	$user = $_GET['id'];
+	$user = 4637837;//$_GET['id'];
 	foreach($objJson as $obj) {	
 		$module_item_id = $mid = $duration = $page_id = $title = array();
 		foreach($obj['items'] as $items) {
